@@ -1,5 +1,5 @@
 build:
   id: 1010101
   version: 1.2.3
-  name: "Dev-git-Production-build"
-  type: "Git-development-build"
+  name: "git-Default-build"
+  type: "Git-default-build"
